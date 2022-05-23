@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "Company_Name": "Fraction Analytics Limited",
+      "Floor Number": "Ground_Floor",
+      "Group_Name": "Group_1",
+      "Camera_Number": "Camera_1",
+      "Video_Name": "./videos/video1.mp4"
+    },
+    {
+      "Company_Name": "Fraction Analytics Limited",
+      "Floor Number": "Ground_Floor",
+      "Group_Name": "Group_1",
+      "Camera_Number": "Camera_2",
+      "Video_Name": "./videos/video1.mp4"
+    },
+    {
+      "Company_Name": "Fraction Analytics Limited",
+      "Floor Number": "Ground_Floor",
+      "Group_Name": "Group_1",
+      "Camera_Number": "Camera_3",
+      "Video_Name": "./videos/video1.mp4"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
